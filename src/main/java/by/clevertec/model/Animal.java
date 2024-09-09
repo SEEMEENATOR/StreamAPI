@@ -14,4 +14,25 @@ public class Animal {
     private int age;
     private String origin;
     private String gender;
+
+
+    public String getOrigin() {
+        return origin;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public String getBread() {
+        return bread;
+    }
 }

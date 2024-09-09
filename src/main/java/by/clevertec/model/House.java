@@ -14,4 +14,16 @@ public class House {
     private int id;
     private String buildingType;
     private List<Person> personList;
+
+    public int getId() {
+        return id;
+    }
+
+    public List<Person> getPersonList() {
+        return personList;
+    }
+
+    public String getBuildingType() {
+        return buildingType;
+    }
 }

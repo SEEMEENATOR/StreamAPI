@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+      "buildingType": "Hospital",
+    "personList": [
+      {
+        "id": 800,
+        "firstName": "Glendon",
+        "lastName": "Brownsell",
+        "dateOfBirth": "1968-01-07",
+        "email": "gbrownsellm7@cbsnews.com",
+        "gender": "Male",
+        "recruitmentGroup": 3,
+        "city": "Arboga",
+        "occupation": "Information Systems Manager"
+      },
+      {
+        "id": 801,
+        "firstName": "Cody",
+        "lastName": "Barnes",
+        "dateOfBirth": "1997-07-26",
+        "email": "cbarnesm8@walmart.com",
+        "gender": "Female",
+        "recruitmentGroup": 2,
+        "city": "Austin",
+        "occupation": "Senior Editor"
+      },
+      {
+        "id": 802,
+        "firstName": "Tersina",
+        "lastName": "Stoodley",
+        "dateOfBirth": "1972-10-14",
+        "email": "tstoodleym9@cisco.com",
+        "gender": "Agender",
+        "recruitmentGroup": 1,
+        "city": "Magang",
+        "occupation": "Teacher"
+      },
+      {
+        "id": 803,
+        "firstName": "Aeriel",
+        "lastName": "Brendel",
+        "dateOfBirth": "1957-03-21",
+        "email": "abrendelma@tiny.cc",
+        "gender": "Non-binary",
+        "recruitmentGroup": 2,
+        "city": "Union",
+        "occupation": "Civil Engineer"
+      },
+      {
+        "id": 804,
+        "firstName": "Renato",
+        "lastName": "Carlucci",
+        "dateOfBirth": "1992-07-05",
+        "email": "rcarluccimb@wunderground.com",
+        "gender": "Male",
+        "recruitmentGroup": 1,
+        "city": "Santa",
+        "occupation": "Dental Hygienist"
+      },
+      {
+        "id": 805,
+        "firstName": "Carolan",
+        "lastName": "Celler",
+        "dateOfBirth": "2006-05-20",
+        "email": "cceller@cc.com",
+        "gender": "Female",
+        "recruitmentGroup": 2,
+        "city": "Austin",
+        "occupation": "Student"
+      },
+      {
+        "id": 806,
+        "firstName": "Mina",
+        "lastName": "Harper",
+        "dateOfBirth": "1945-11-23",
+        "email": "mharper@harper.com",
+        "gender": "Female",
+        "recruitmentGroup": 3,
+        "city": "New York",
+        "occupation": "Retired"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "buildingType": "House",
+    "personList": [
+      {
+        "id": 1000,
+        "firstName": "Marissa",
+        "lastName": "Renne",
+        "dateOfBirth": "1968-11-05",
+        "email": "mrennerr@engadget.com",
+        "gender": "Female",
+        "recruitmentGroup": 2,
+        "city": "Ijūin",
+        "occupation": "Director of Sales"
+      },
+      {
+        "id": 1001,
+        "firstName": "Pedro",
+        "lastName": "Sanchez",
+        "dateOfBirth": "2008-10-12",
+        "email": "psanchez@mail.com",
+        "gender": "Male",
+        "recruitmentGroup": 3,
+        "city": "Madrid",
+        "occupation": "Student"
+      },
+      {
+        "id": 1002,
+        "firstName": "Lara",
+        "lastName": "Croft",
+        "dateOfBirth": "2001-05-25",
+        "email": "lcroft@game.com",
+        "gender": "Female",
+        "recruitmentGroup": 2,
+        "city": "London",
+        "occupation": "Explorer"
+      }
+    ]
+  }
+]

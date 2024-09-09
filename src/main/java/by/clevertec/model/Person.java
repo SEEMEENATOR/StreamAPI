@@ -20,4 +20,41 @@ public class Person {
     private int recruitmentGroup;
     private String city;
     private String occupation;
+
+    public int getId() {
+        return id;
+    }
+
+    public String getOccupation() {
+        return occupation;
+    }
+
+    public LocalDate getDateOfBirth() {
+        return dateOfBirth;
+    }
+
+    public int getRecruitmentGroup() {
+        return recruitmentGroup;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public String getCity() {
+        return city;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
 }
