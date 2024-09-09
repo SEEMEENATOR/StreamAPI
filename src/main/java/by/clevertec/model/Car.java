@@ -25,4 +25,36 @@ public class Car {
      * Dollars ($)
      */
     private int price;
+
+    public int getPrice() {
+        return price;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getVin() {
+        return vin;
+    }
+
+    public String getCarModel() {
+        return carModel;
+    }
+
+    public String getCarMake() {
+        return carMake;
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public int getReleaseYear() {
+        return releaseYear;
+    }
+
+    public int getMass() {
+        return mass;
+    }
 }

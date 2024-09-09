@@ -14,5 +14,25 @@ public class Student {
     private int age;
     private String faculty;
     private String group;
+
+    public String getSurname() {
+        return surname;
+    }
+
+    public String getFaculty() {
+        return faculty;
+    }
+
+    public String getGroup() {
+        return group;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public int getAge() {
+        return age;
+    }
 }
 

@@ -14,4 +14,24 @@ public class Examination {
     private int exam1;
     private int exam2;
     private int exam3;
+
+    public int getId() {
+        return id;
+    }
+
+    public int getExam1() {
+        return exam1;
+    }
+
+    public int getExam2() {
+        return exam2;
+    }
+
+    public int getExam3() {
+        return exam3;
+    }
+
+    public int getStudentId() {
+        return studentId;
+    }
 }
